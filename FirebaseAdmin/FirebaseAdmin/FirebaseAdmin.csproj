@@ -18,10 +18,11 @@
     <Copyright>Copyright 2018 Google LLC</Copyright>
     <Authors>Google Inc.</Authors>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
-    <PackageProjectUrl>https://github.com/Firebase/firebase-admin-dotnet</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/YahuiWong/firebase-admin-dotnet</PackageProjectUrl>
     <RepositoryType>git</RepositoryType>
-    <RepositoryUrl>https://github.com/Firebase/firebase-admin-dotnet</RepositoryUrl>
+    <RepositoryUrl>https://github.com/YahuiWong/firebase-admin-dotnet</RepositoryUrl>
     <CodeAnalysisRuleSet>../../stylecop.ruleset</CodeAnalysisRuleSet>
+    <AssemblyName>FirebaseAdminCore</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>

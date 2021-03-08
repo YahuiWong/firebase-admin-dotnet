@@ -25,7 +25,7 @@ namespace FirebaseAdmin.Messaging
     /// specified by setting exactly one of the <see cref="Token"/>, <see cref="Topic"/> or
     /// <see cref="Condition"/> fields.
     /// </summary>
-    public sealed class Message
+    public class Message
     {
         /// <summary>
         /// Gets or sets the registration token of the device to which the message should be sent.
